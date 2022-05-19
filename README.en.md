@@ -1,36 +1,15 @@
-# CRM
+# CRM核心业务介绍
+#### 1，CRM(Customer Relationship Management)客户关系管理是管理企业与客户之间关系的新型管理机制。终极目标是吸引新客户、保留老客户以及将已有客户转变为忠诚客户，以增加市场份额。它是一个完整的客户关系管理系统，包括市场、销售、服务3大环节，产品成熟，操作简单，功能强大。帮您从客户全生命周期的各个阶段获取价值。
 
-#### Description
-crm客户关系管理系统
+#### 2，这是一类软件，很多公司专门做这种CRM系统。我们这个系统，是从咱们一个非常有名的专门致力于CRM项目开发的公司中拿过来的。不同行业的CRM，功能一点都不一样，它是由销售模式来决定的，你比如有分销和直销。
 
-#### Software Architecture
-Software architecture description
+#### 3，CRM为改善企业与客户之间关系的提供了一种新型管理机制，企业可以规划市场营销活动、增加销售线索、规范客户联系人信息、对不同阶段的交易进行有效区分和统计、妥善安排售后回访、为决策提供支撑等，优化各业务环节，减少各环节客户流失，和公司成本。当然，我们不是全部都做，我们只是拿出来其中的某几个模块来做。
 
-#### Installation
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### Instructions
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### Contribution
-
-1.  Fork the repository
-2.  Create Feat_xxx branch
-3.  Commit your code
-4.  Create Pull Request
-
-
-#### Gitee Feature
-
-1.  You can use Readme\_XXX.md to support different languages, such as Readme\_en.md, Readme\_zh.md
-2.  Gitee blog [blog.gitee.com](https://blog.gitee.com)
-3.  Explore open source project [https://gitee.com/explore](https://gitee.com/explore)
-4.  The most valuable open source project [GVP](https://gitee.com/gvp)
-5.  The manual of Gitee [https://gitee.com/help](https://gitee.com/help)
-6.  The most popular members  [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+#### 4，业务流程：
+- 市场活动:市场部人员。
+- 线索：销售部人员。(线索购买意愿非常强烈的时候，可以转换)
+- 客户：线索中的公司信息
+- 联系人：线索中的联系人信息
+- 交易：已经促成的交易。促成的交易不一定就肯定成交，只有那些已经有交易意向的客户才创建交易记录。交易中有一些阶段，总共九个阶段，越是往下越是成交的可能性越大，当然也可能最后成交失败。
+- 售后回访：客服人员。成交之后的。
+- 统计报表：销售漏斗。主要体现交易数据各个阶段的数据变化。
